@@ -1,0 +1,45 @@
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.exe
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.deps.json
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.runtimeconfig.json
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.dll
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\bin\Debug\net6.0\ref\ConsoleFileMenager.dll
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.pdb
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.csproj.AssemblyReference.cache
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.AssemblyInfoInputs.cache
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.AssemblyInfo.cs
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.csproj.CoreCompileInputs.cache
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.dll
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ref\ConsoleFileMenager.dll
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.pdb
+d:\Users\valer\OneDrive\Рабочий стол\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.genruntimeconfig.cache
+D:\GB_CFileMenagere\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.exe
+D:\GB_CFileMenagere\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.deps.json
+D:\GB_CFileMenagere\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.runtimeconfig.json
+D:\GB_CFileMenagere\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.dll
+D:\GB_CFileMenagere\ConsoleFileMenager\bin\Debug\net6.0\ref\ConsoleFileMenager.dll
+D:\GB_CFileMenagere\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.pdb
+D:\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.csproj.AssemblyReference.cache
+D:\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.AssemblyInfoInputs.cache
+D:\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.AssemblyInfo.cs
+D:\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.csproj.CoreCompileInputs.cache
+D:\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.dll
+D:\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ref\ConsoleFileMenager.dll
+D:\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.pdb
+D:\GB_CFileMenagere\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.genruntimeconfig.cache
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.exe
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.deps.json
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.runtimeconfig.json
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.dll
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\bin\Debug\net6.0\ref\ConsoleFileMenager.dll
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\bin\Debug\net6.0\ConsoleFileMenager.pdb
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.csproj.AssemblyReference.cache
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.AssemblyInfoInputs.cache
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.AssemblyInfo.cs
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.csproj.CoreCompileInputs.cache
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.dll
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\obj\Debug\net6.0\ref\ConsoleFileMenager.dll
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.pdb
+d:\Users\valer\OneDrive\Рабочий стол\гб\ConsoleFileMenager\obj\Debug\net6.0\ConsoleFileMenager.genruntimeconfig.cache
