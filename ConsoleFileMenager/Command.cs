@@ -90,10 +90,10 @@ namespace ConsoleFileMenager
             FileInfo fileIn = new FileInfo(words[1]);
             if (fileOut.Exists)
             {
-                if (!fileOut.Exists)
+                if (!fileIn.Exists)
                 {
                     fileOut.CopyTo(words[1]);
-                    UI.ShowSystemInfo($"Файл {words[1]} скопирован в {words[0]}");
+                    UI.ShowSystemInfo($"Файл {words[0]} скопирован в {words[1]}");
                 }
                 else
                 {
@@ -102,11 +102,10 @@ namespace ConsoleFileMenager
                     if (Console.ReadLine() == "y")
                     {
                         File.Delete(words[1]);
-                        if (fileOut.Exists)
-                        {
-                            fileOut.CopyTo(words[1]);
-                            UI.ShowSystemInfo($"Файл {words[1]} скопирован в {words[0]}");
-                        }
+                        fileOut.CopyTo(words[1]);
+                        UI.ShowSystemInfo($"Файл {words[0]} скопирован в {words[1]}");
+
+
                     }
                     else if (Console.ReadLine() == "n")
                     {
@@ -115,6 +114,10 @@ namespace ConsoleFileMenager
                     }
 
                 }
+            }
+            else
+            {
+                UI.ShowSystemInfo($"Файл {words[0]} не существует");
             }
         }
 

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleFileMenager
 {
 
-    public class UI
+    public static class UI
     {
 
         static int WidthFildPath, WidthFildinfo, WidthFildComandLine = Console.WindowWidth-1;

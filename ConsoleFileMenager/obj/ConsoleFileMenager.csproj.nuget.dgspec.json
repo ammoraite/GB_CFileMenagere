@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Users\\valer\\OneDrive\\Рабочий стол\\гб\\ConsoleFileMenager\\ConsoleFileMenager.csproj": {}
+    "D:\\С# Project\\GB_CFileMenagere\\ConsoleFileMenager\\ConsoleFileMenager.csproj": {}
   },
   "projects": {
-    "d:\\Users\\valer\\OneDrive\\Рабочий стол\\гб\\ConsoleFileMenager\\ConsoleFileMenager.csproj": {
+    "D:\\С# Project\\GB_CFileMenagere\\ConsoleFileMenager\\ConsoleFileMenager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Users\\valer\\OneDrive\\Рабочий стол\\гб\\ConsoleFileMenager\\ConsoleFileMenager.csproj",
+        "projectUniqueName": "D:\\С# Project\\GB_CFileMenagere\\ConsoleFileMenager\\ConsoleFileMenager.csproj",
         "projectName": "ConsoleFileMenager",
-        "projectPath": "d:\\Users\\valer\\OneDrive\\Рабочий стол\\гб\\ConsoleFileMenager\\ConsoleFileMenager.csproj",
+        "projectPath": "D:\\С# Project\\GB_CFileMenagere\\ConsoleFileMenager\\ConsoleFileMenager.csproj",
         "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
-        "outputPath": "d:\\Users\\valer\\OneDrive\\Рабочий стол\\гб\\ConsoleFileMenager\\obj\\",
+        "outputPath": "D:\\С# Project\\GB_CFileMenagere\\ConsoleFileMenager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
